@@ -1,9 +1,13 @@
 fileFormatVersion: 2
 guid: 01053d6ddefd25348a838939a646f78c
-timeCreated: 1465934373
-licenseType: Pro
+timeCreated: 1465937203
+licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: menusign 1_0
+    21300002: menusign 1_1
+    21300004: menusign 1_2
+    21300006: menusign 1_3
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,26 +34,100 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
-    wrapMode: -1
-  nPOTScale: 1
+    wrapMode: 1
+  nPOTScale: 0
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
-  alphaIsTransparency: 0
-  textureType: -1
+  alphaIsTransparency: 1
+  textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: menusign 1_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 269
+        width: 417
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -198.5, y: -37}
+        - {x: -199.5, y: -34}
+        - {x: -203.5, y: -34}
+        - {x: -204.5, y: -37}
+      - - {x: 208.5, y: 37}
+        - {x: -192.5, y: 37}
+        - {x: -204.5, y: 32}
+        - {x: -208.5, y: 31}
+        - {x: -208.5, y: -34}
+        - {x: -203.5, y: -37}
+        - {x: 194.5, y: -37}
+        - {x: 206.5, y: -33}
+        - {x: 208.5, y: -29}
+      - - {x: 203.5, y: -37}
+        - {x: 202.5, y: -34}
+        - {x: 198.5, y: -34}
+        - {x: 197.5, y: -37}
+    - name: menusign 1_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 170
+        width: 436
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -212, y: 48}
+        - {x: -218, y: 42}
+        - {x: -218, y: -46}
+        - {x: -211, y: -48}
+        - {x: -207, y: -48}
+        - {x: -205, y: -43}
+        - {x: -205, y: -40}
+        - {x: -205, y: -41}
+        - {x: -204, y: -45}
+        - {x: 155, y: -42}
+        - {x: 193, y: -48}
+        - {x: 206, y: -48}
+        - {x: 218, y: -39}
+        - {x: 218, y: 45}
+        - {x: 212, y: 48}
+    - name: menusign 1_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 344
+        width: 417
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 202.5, y: 37}
+        - {x: 194.5, y: 33}
+        - {x: -194.5, y: 33}
+        - {x: -205.5, y: 29}
+        - {x: -208.5, y: 26}
+        - {x: -208.5, y: -35}
+        - {x: -203.5, y: -37}
+        - {x: 208.5, y: -37}
+        - {x: 208.5, y: 37}
     outline: []
   spritePackingTag: 
   userData: 
